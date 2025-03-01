@@ -13,7 +13,7 @@ A nifty Go tool that scans an HTML file for Discord CDN URLs, downloads the cont
 ## Installation :3
 
 1. **Prerequisites:**  
-    Make sure you have [Go](https://golang.org/dl/) installed.
+    Make sure you have [Go](https://golang.org/dl/) installed. <br >
     Have an HTML exported copy of your Discord DM/Channel/Group <br >
     (For example use the [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter/) from Tyrrrz)
 
